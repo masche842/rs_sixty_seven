@@ -1,0 +1,8 @@
+[package]
+name = "rsSixtySeven"
+version = "0.0.1"
+license = "Apache-2.0"
+authors = ["Marc Schettke <it@schettke.com>"]
+repository = "https://github.com/masche842/rs_sixty_seven"
+
+[dependencies]
